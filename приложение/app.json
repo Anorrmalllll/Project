@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Diary app",
+    "slug": "diaryApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "jsEngine": "hermes",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#EE3A46"
+    },
+    "ios": {
+      "bundleIdentifier": "com.diaryApp.diaryApp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.diaryApp.diaryApp",
+      "versionCode": 1,
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d773150a-187b-408e-abbc-802556c668c9"
+      }
+    }
+  }
+}
